@@ -4,6 +4,7 @@
 
 ### commands history, playing around: 
 
+```
    75  git clone git@github.com:markchalloner/git-semver.git
    76  cd git-semver/
    77  git checkout
@@ -69,4 +70,4 @@
   135  git push -u origin master
   136  git push origin --tags
   137  history
-
+```
