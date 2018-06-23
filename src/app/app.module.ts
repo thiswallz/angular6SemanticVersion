@@ -18,5 +18,7 @@ export class AppModule {
 addTest(){
 console.log("example")
 }
-
+other(){
+return false
+}
  }
