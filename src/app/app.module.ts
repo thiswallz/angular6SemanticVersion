@@ -15,7 +15,7 @@ import { AppComponent } from './app.component';
 })
 export class AppModule {
 
-add(){
+addTest(){
 console.log("example")
 }
 
